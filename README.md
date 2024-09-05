@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rajkumar
+- 👋 Hi, I’m rajkumar jonwal
 - 👀 I’m interested in code python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
